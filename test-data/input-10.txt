@@ -1,0 +1,2 @@
+# Create a ship with negativ parameters
+GT4500,-1,1,10,0
