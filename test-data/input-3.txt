@@ -1,0 +1,3 @@
+# Create a ship with at least one stores stocked
+GT4500,0,0,10,0
+TORPEDO,ALL  # should have fired from the first stock, returns true

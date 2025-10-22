@@ -1,0 +1,5 @@
+# Create a ship both loaded
+GT4500,1,0,10,0
+TORPEDO,SINGLE #fires the first one
+TORPEDO,SINGLE #fires the second one
+TORPEDO,SINGLE #fires the second one again, cos the first is empty
